@@ -1,0 +1,30 @@
+.body{
+	text-align:center;
+	background-color:#7FDBFF;
+	border:2px solid #0074D9;
+	margin:10%;
+	padding:40px;
+	color:ghostwhite;
+}
+#data1{
+color:blue;
+ text-align:center;
+ font-size:50px;
+ font-family:cursive;
+}
+#data{
+	color:blue;
+	font-size:2em;
+}
+#city{
+    margin:1px;
+    color:blue;
+    text-align: center;
+}
+#data2{
+    font-family: cursive;
+}
+@media only screen and (max-width: 768px) {
+    margin-top:0px;
+}
+
